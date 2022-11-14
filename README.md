@@ -22,7 +22,7 @@ Momo system console clone with python
 
     1. Clone folder from the Python-classes-Test repo 
     2. Open folder in any IDE of your choice(vs-code recommended)
-    3. Run code on the Terminal    
+    3. Run code in the Terminal    
  
      
       • Project Stracture 
