@@ -39,14 +39,14 @@ inherited by MTN and Vodafone Class function
 pip 8 format applied in naming variable 
 And code indentation 
 
-  • Polymorphism 
+  • Polymorphism :
 Both Network(MTN and Vodafone) money transfer override 
 
-  • Encapsulation 
+  • Encapsulation :
 Transaction class, MTN class and Vodafone classes
 Well structured and inheriting from the parent class
 
-  • SOLID 
+  • SOLID :
 There in a solid flow in Transaction class and Database
 Performing one functionality such as 
 
@@ -55,11 +55,11 @@ Money withdrawal
 Money transfer 
 Deposit 
 etc 
-*.  Data Base 
+*.  Data Base :
 Saving Users detail
 etc 
 
-  • Abstraction 
+  • Abstraction :
  Class objects 
 
 
