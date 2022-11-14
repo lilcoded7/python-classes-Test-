@@ -2,15 +2,18 @@
 Momo system console clone with python 
 
 
-      AREAS- Implemented
+            • AREAS- Implemented
 
-User SignUp and login              - implemented, 
-Momo Network both MTN and Vodafone - implemented,
-User authentication                - implemented,
-withdraw                           - implemented,
-Deposit                            - implemented,
-Allow Cash Out                     - implemented, 
-money Transfer                     - implemented,
+* User SignUp and login              - implemented, 
+
+* Momo Network both MTN and Vodafone - implemented,
+
+* User authentication - implemented,
+
+* withdraw            - implemented,
+* Deposit             - implemented,
+* Allow Cash Out      - implemented, 
+* money Transfer      - implemented,
 
 
        
@@ -31,33 +34,33 @@ transaction class serving as a parent class
 inherited by MTN and Vodafone Class function 
 
 
-  *.  PEP 8
+  •   PEP 8
 
 pip 8 format applied in naming variable 
 And code indentation 
 
-  *. Polymorphism 
+  • Polymorphism 
 Both Network(MTN and Vodafone) money transfer override 
 
-  *. Encapsulation 
+  • Encapsulation 
 Transaction class, MTN class and Vodafone classes
 Well structured and inheriting from the parent class
 
-  * SOLID 
+  • SOLID 
 There in a solid flow in Transaction class and Database
 Performing one functionality such as 
 
-•The Transactions class 
+*. The Transactions class 
 Money withdrawal
 Money transfer 
 Deposit 
 etc 
-.Data Base 
+*.  Data Base 
 Saving Users detail
 etc 
 
-  *Abstraction 
-Class objects 
+  • Abstraction 
+ Class objects 
 
 
 
