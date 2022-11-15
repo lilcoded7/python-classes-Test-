@@ -47,14 +47,9 @@ Transaction class, MTN class and Vodafone classes
 Well structured and inheriting from the parent class
 
   • SOLID :
-There in a solid flow in Transaction class and Database
+There in a solid flow in the Database
 Performing one functionality such as 
 
-*. The Transactions class 
-Money withdrawal
-Money transfer 
-Deposit 
-etc 
 *.  Data Base :
 Saving Users detail
 etc 
